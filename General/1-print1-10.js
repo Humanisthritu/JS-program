@@ -8,13 +8,7 @@ const loopNum = () =>{
 
 loopNum();
 
-// const myfun = () => {
-//     console.log("myfun");
-//     // return 5;
-// }
 
-// let res = myfun();
-// console.log(res)
 
 
 

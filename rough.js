@@ -1,15 +1,9 @@
 
-
-
-const num = 5 
-
-const fact = (number) => {
-    let facto = 1
-    for(let i = number; i > 0 ; i-- ){
-       facto = facto * i
+let res = ""
+for(let i = 0 ; i < 4 ; i++ ){
+    res=""
+    for(let j = 0; j < 3; j++){
+        res+= "*"
     }
-    return facto
+    console.log(res)
 }
-
-let res = fact(num)
-console.log(res)

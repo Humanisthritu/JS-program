@@ -14,5 +14,13 @@ const sumRes = ( number) => {
 let res = sumRes(num)
 console.log(res);
 
+// sum = 0
+// for(let i = 1 ; i < 11 ; i++ ){
+ 
+//   sum = sum + i
+ 
+// }
+
+// console.log(sum)
 
 

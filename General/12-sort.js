@@ -134,6 +134,7 @@ console.log(resAsc)
 
 
 
+
 //descending order function
 const decSort  = (decArr) =>{
     const sortedStudent = decArr.sort((a, b) => b.age - a.age);

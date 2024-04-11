@@ -1,2 +1,7 @@
-let res = fact(5)
-// console.log(res)
+const loopNum = () =>{
+//   for(let i = 1; i < 11 ; i++ ){
+//         console.log(i);
+//     }
+// }
+
+// loopNum();

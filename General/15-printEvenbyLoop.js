@@ -1,4 +1,4 @@
-// question : print even no. 1-15 using for Loop 
+// question : print even no given by user using for Loop 
 
 const num = 15
 
@@ -11,3 +11,5 @@ const evenNo = (number) => {
 }
 
  evenNo(num)
+
+
